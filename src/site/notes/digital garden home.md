@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2025-10-31T19:40:50.092+05:30","updated":"2025-10-31T20:08:25.338+05:30"}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2025-10-31T19:40:50.092+05:30","updated":"2025-10-31T20:44:34.217+05:30"}
 ---
 
-this is the homepage of my digital garden
+this is the homepage of my digital garden feel free to visit the places below
+
+[[learning python\|learning python]]
+[[who am i\|who am i]]
+[[games i would try to make if i had the skill\|games i would try to make if i had the skill]]
