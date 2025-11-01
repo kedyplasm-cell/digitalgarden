@@ -3,4 +3,4 @@
 ---
 
 i am a kid trying to learn coding and backend development to make my life a whole lot easier in the future. im 11 and my dream job is aerospace engineer. if you want, you can take thetime with me at the [[digital garden home\|digital garden home]] to have some fun with code(and maybe break it)
-![Pasted image 20251031203825.png](/img/user/Pasted%20image%2020251031203825.png)
+![Pasted image 20251031203825.png](/img/user/IMAGES/Pasted%20image%2020251031203825.png)
